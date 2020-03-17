@@ -1,6 +1,6 @@
-![Nikola Tesla](./assets/images/N.Tesla.jpeg)
+![Nikola Tesla](./tesla.jpeg)
 # NIKOLA TESLA
-*Nikola Tesla* adalah seorang penemu asal Serbia dengan penemuannya yang terkenal adalah **arus listrik bolak-balik (AC)**.
+*Nikola Tesla* adalah seorang pria kelahiran Siberia tahun 1856.<br> beliau adalah penemu dengan penemuannya yang terkenal **arus listrik bolak-balik (AC)**.
 
 ## PENEMUAN
 Beberapa penemuan Tesla :
